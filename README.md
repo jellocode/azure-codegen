@@ -7,7 +7,10 @@
 - ⭐ Looking for help with navigating computer vision
   
 - (●ˇ∀ˇ●) PS: I'm a major weeb </br>
-                                                                        discord - m00sh1
+
+<p align="center">
+discord - m00sh1
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=jellocode&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jellocode&theme=gotham&hide_border=true)<br/>
