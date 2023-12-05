@@ -8,8 +8,9 @@
   
 - (●ˇ∀ˇ●) PS: I'm a major weeb </br>
 
-<p align="center">
 [discord](https://github.com/jellocode/jellocode/assets/116707690/56109193-021f-4412-b2ee-99a7dd9d1543)
+
+<p align="center">
 
 Discord - m00sh1
 </p>
