@@ -5,7 +5,9 @@
 - ⭐ Currently learning how to make softwares aesthetic
 - ⭐ Looking to collaborate on projects and games on the side
 - ⭐ Looking for help with navigating computer vision
+  
 - (●ˇ∀ˇ●) PS: I'm a major weeb
+                                                                        discord - m00sh1
 
 ![](https://github-readme-stats.vercel.app/api?username=jellocode&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jellocode&theme=gotham&hide_border=true)<br/>
