@@ -9,8 +9,9 @@
 - (●ˇ∀ˇ●) PS: I'm a major weeb </br>
 
 <p align="center">
-**Discord - m00sh1
-**</p>
+![concours-discord-cartes-voeux-fortnite-france-6](https://github.com/jellocode/jellocode/assets/116707690/e15100d0-f1d7-46f7-9846-4e212ba680bb)
+Discord - m00sh1
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=jellocode&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jellocode&theme=gotham&hide_border=true)<br/>
