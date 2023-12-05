@@ -2,9 +2,9 @@
 
 # ✨(๑•̀ㅂ•́)و About Me:
 
-- ⭐ I’m currently learning how to make softwares aesthetic
-- ⭐ I’m looking to collaborate on projects and games on the side
-- ⭐ I’m looking for help with navigating computer vision
+- ⭐ Currently learning how to make softwares aesthetic
+- ⭐ Looking to collaborate on projects and games on the side
+- ⭐ Looking for help with navigating computer vision
 - (●ˇ∀ˇ●) PS: I'm a major weeb
 
 ![](https://github-readme-stats.vercel.app/api?username=jellocode&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
