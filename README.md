@@ -9,8 +9,8 @@
 - (●ˇ∀ˇ●) PS: I'm a major weeb </br>
 
 <p align="center">
-<b></b>Discord - m00sh1</b>
-</p>
+**Discord - m00sh1
+**</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=jellocode&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jellocode&theme=gotham&hide_border=true)<br/>
