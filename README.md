@@ -8,7 +8,7 @@
   
 - (●ˇ∀ˇ●) PS: I'm a major weeb </br>
 
-[discord](https://github.com/jellocode/jellocode/assets/116707690/56109193-021f-4412-b2ee-99a7dd9d1543)
+![](https://github.com/jellocode/jellocode/assets/116707690/11e526e2-ffdb-4f6e-b10d-b6755624c0fb)
 
 <p align="center">
 
