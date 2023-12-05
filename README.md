@@ -1,6 +1,6 @@
 ### Hello there ヾ(•ω•`)o
 
-# (๑•̀ㅂ•́)و✨ About Me:
+# ✨(๑•̀ㅂ•́)و About Me:
 
 - ⭐ I’m currently learning how to make softwares aesthetic
 - ⭐ I’m looking to collaborate on projects and games on the side
