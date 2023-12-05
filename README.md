@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with navigating computer vision
 - ⚡ Random fact: I'm a major weeb
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jellocode&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jellocode&theme=gotham&hide_border=true)<br/>
 
