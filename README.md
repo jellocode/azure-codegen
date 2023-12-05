@@ -7,8 +7,6 @@
 - 🤔 I’m looking for help with navigating computer vision
 - ⚡ Random fact: I'm a major weeb
 
-
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/m00sh1) 
 
 # 💻 Tech Stack:
