@@ -2,7 +2,7 @@
 
 # ✨(๑•̀ㅂ•́)و About Me:
 
-- ⭐ Currently learning how to make softwares aesthetic
+- ⭐ Currently learning to make softwares aesthetic
 - ⭐ Looking to collaborate on projects and games on the side
 - ⭐ Looking for help with navigating computer vision and space
   
