@@ -4,7 +4,7 @@
 
 - ⭐ Currently learning how to make softwares aesthetic
 - ⭐ Looking to collaborate on projects and games on the side
-- ⭐ Looking for help with navigating computer vision
+- ⭐ Looking for help with navigating computer vision and space
   
 - (●ˇ∀ˇ●) PS: I'm a major weeb </br>
 
