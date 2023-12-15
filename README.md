@@ -11,7 +11,7 @@
 <!--![](https://github.com/jellocode/jellocode/assets/116707690/11e526e2-ffdb-4f6e-b10d-b6755624c0fb | width = 50) -->
 
 <p align="center">
-hmu on discord for collaborations and hackathons | <strong> m00sh1 </strong> 
+hmu on discord for collabs and hackathons | <strong> m00sh1 </strong> 
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=jellocode&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
