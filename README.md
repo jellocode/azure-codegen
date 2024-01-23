@@ -1,12 +1,12 @@
 ### Hello there ヾ(•ω•`)o
 
-# ✨(๑•̀ㅂ•́)و About Me:
+# ✨About Me:
 
 - ⭐ Currently learning to make softwares aesthetic
 - ⭐ Looking to collaborate on projects and games on the side
 - ⭐ Looking for help with navigating computer vision and space
   
-- (●ˇ∀ˇ●) PS: I'm a major weeb </br>
+- PS: I'm a major weeb </br>
 
 <!--![](https://github.com/jellocode/jellocode/assets/116707690/11e526e2-ffdb-4f6e-b10d-b6755624c0fb | width = 50) -->
 
