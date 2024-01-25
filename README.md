@@ -1,4 +1,4 @@
-### Hello there ヾ(•ω•`)o
+### Helo there ヾ('U')
 
 # About Me:
 
