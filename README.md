@@ -1,10 +1,10 @@
 ### Hello there ヾ(•ω•`)o
 
-# ✨About Me:
+# About Me:
 
-- ⭐ Currently learning to make softwares aesthetic
-- ⭐ Looking to collaborate on projects and games on the side
-- ⭐ Looking for help with navigating computer vision and space
+- ⭐ Currently writing a paper and article :,)
+- ⭐ Looking to collaborate on projects on the side, preferably with less people
+- ⭐ Looking for help with human-ai-robotics (??)
   
 - PS: I'm a major weeb </br>
 
