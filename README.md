@@ -1,13 +1,3 @@
-### Helo there ヾ('U')
-
-# About Me:
-
-- ⭐ Currently writing a paper and article :,)
-- ⭐ Looking to collaborate on projects on the side, preferably with less people
-- ⭐ Looking for help with human-ai-robotics (??)
-  
-- PS: I'm a major weeb </br>
-
 <!--![](https://github.com/jellocode/jellocode/assets/116707690/11e526e2-ffdb-4f6e-b10d-b6755624c0fb | width = 50) -->
 
 <p align="center">
