@@ -14,6 +14,6 @@ This project utilizes the Azure OpenAI Service to assist developers in generatin
 
 ## Requirements
 
-- Python 3.x
+- Python (any latest versions)
 - `openai` package
 - `python-dotenv` package
